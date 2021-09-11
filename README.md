@@ -1,3 +1,3 @@
 # machine-learning-projects
 
-TTT
+All machine learning projects done from CSCI 4962
